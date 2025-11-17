@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Bai1Cau8 {
+public class Nhanvien_Cau8 {
     static Scanner sc = new Scanner(System.in);
     static ArrayList<NhanVien> dsNhanVien = new ArrayList<>();
 

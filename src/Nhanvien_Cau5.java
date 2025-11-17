@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai1Cau5 {
+public class Nhanvien_Cau5 {
 
     public static void main(String[] args) {
         NhanVien nhanVien1 = new NhanVien();
