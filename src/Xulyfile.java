@@ -168,7 +168,7 @@ public class Xulyfile {
         String path = sc.nextLine();
 
         // Bạn có thể gọi từng bài để test
-        // bai1(path);
+        // bai1(pathh);
         // bai2(path);
         // bai3(path, "Nguyen");
         // bai4(path);
