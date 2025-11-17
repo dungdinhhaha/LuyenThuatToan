@@ -5,7 +5,7 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.Scanner;
 
-public class Vadilate1 {
+public class Vadilate_Thuattoan {
 
     private static final Scanner SCANNER = new Scanner(System.in);
 

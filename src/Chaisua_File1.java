@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai9 {
+public class Chaisua_File1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập giá 1 chai sữa (a): ");

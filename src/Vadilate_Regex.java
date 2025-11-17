@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class Vadilate2 {
+public class Vadilate_Regex {
 
     private static final Scanner SCANNER = new Scanner(System.in);
     private static final Pattern CMND_PATTERN = Pattern.compile("\\d{9}|\\d{12}");
