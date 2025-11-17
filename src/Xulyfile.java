@@ -97,11 +97,9 @@ public class Xulyfile {
             while ((line = br.readLine()) != null) {
                 try {
                     Integer.parseInt(line);
-                    // Nếu parseInt không lỗi → là số
                     bwSo.write(line);
                     bwSo.newLine();
                 } catch (NumberFormatException e) {
-                    // Nếu lỗi → là chữ cái
                     bwChu.write(line);
                     bwChu.newLine();
                 }
@@ -167,7 +165,7 @@ public class Xulyfile {
         System.out.println("Nhập đường dẫn file: ");
         String path = sc.nextLine();
 
-        // Bạn có thể gọi từng bài để test
+       
         // bai1(pathh);
         // bai2(path);
         // bai3(path, "Nguyen");
