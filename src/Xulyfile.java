@@ -167,7 +167,6 @@ public class Xulyfile {
         System.out.println("Nhập đường dẫn file: ");
         String path = sc.nextLine();
 
-        // Bạn có thể gọi từng bài để test
         // bai1(pathh);
         // bai2(path);
         // bai3(path, "Nguyen");
