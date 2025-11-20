@@ -6,7 +6,8 @@ public class Vadilate_Regex {
     private static final Scanner SCANNER = new Scanner(System.in);
     private static final Pattern CMND_PATTERN = Pattern.compile("\\d{9}|\\d{12}");
     private static final Pattern EMAIL_PATTERN =
-            Pattern.compile("^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$");
+            Pattern.compile("^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$
+");
 
     public static void main(String[] args) {
         while (true) {
