@@ -1,5 +1,3 @@
-package ttdg6_mang2chieu;
-
 import java.util.Scanner;
 
 public class CaRo_Mang2chieu {
